@@ -46,6 +46,10 @@
 <br>
 <br>
 
+---
+
+### ✏️ Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bohg6799)](https://solved.ac/bohg6799/)
 
 ---
 
@@ -54,8 +58,3 @@
 [![Sheep1sik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheep1sik&count_private=true&show_icons=true&title_color=000000&icon_color=7F7F7F&layout=compact&theme=white)](https://github.com/Sheep1sik/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&langs_count=8&count_private=true&title_color=000000)](https://github.com/Sheep1sik/github-readme-stats)
 
-<br>
-<br>
-
-### ✏️ Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bohg6799)](https://solved.ac/bohg6799/)
