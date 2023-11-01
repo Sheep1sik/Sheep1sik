@@ -55,6 +55,6 @@
 
 ### GitHub Stats
 
-[![Sheep1sik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheep1sik&count_private=true&show_icons=true&title_color=000000&icon_color=7F7F7F&layout=compact&theme=white)](https://github.com/Sheep1sik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&langs_count=8&count_private=true&title_color=000000)](https://github.com/Sheep1sik/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&title_color=000000&icon_color=7F7F7F&layout=compact&theme=white)](https://github.com/Sheep1sik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&langs_count=8&title_color=000000)](https://github.com/Sheep1sik/github-readme-stats)
 
