@@ -1,9 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ffffff,100:ffffff&height=150&section=header&text=Welcome!&fontColor=000000&fontSize=60&animation=twinkling&fontAlignY=45&desc=Sheep1sik's%20GitHub%20Profile&descAlignY=70)
-
----
-
 ### 👋 안녕하세요, 저는 **양원식**입니다!  
 iOS 앱 개발에 열정을 가진 예비 개발자로, 사용자 경험을 최적화하는 것을 목표로 다양한 프로젝트를 진행하고 있습니다.
 
