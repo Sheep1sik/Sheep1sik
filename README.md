@@ -1,15 +1,19 @@
 <div>
 
-### 👋 안녕하세요, 저는 **양원식**입니다!  
-iOS 앱 개발에 열정을 가진 예비 개발자로, 사용자 경험을 최적화하는 것을 목표로 다양한 프로젝트를 진행하고 있습니다.
-
----
 
 ### 🏆 개인 수상 경력
 - **2018 고양시 스마트 시티 메이커톤**: 우수상 [ 고양지식정보산업진흥원장상 (3위) ]  
   - 아두이노, 라즈베리파이를 활용한 시각장애인을 위한 보도블럭  
 - **2021 창의,융합,통섭형 학생역량강화 캠프**: 동상
 - **2024 제 12회 범정부 공공데이터 활용 창업경진대회 왕중왕전**: 장려상 
+
+---
+
+### 📝 대표 프로젝트
+#### **JOSIMI: 스마트 개인화 앱**
+- **설명**: 개인의 질병 정보를 기반으로 **식품 성분 위험도**를 시각적으로 제공하고, **맞춤형 제품 추천**까지 지원하는 스마트 커머스 앱
+- **기술 스택**: Swift, SwiftUI, Combine, CoreData  
+- **성과**: **2024 제 10회 인천광역시 공공데이터 활용 경진대회**: 최우수상, **2024 인천대학교 창업경진대회**: 단괴대학장상, **2024 제 12회 범정부 공공데이터 활용 창업경진대회 왕중왕전**: 장려상  
 
 ---
 
@@ -31,14 +35,6 @@ iOS 앱 개발에 열정을 가진 예비 개발자로, 사용자 경험을 최�
 ### 📈 GitHub 통계  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&title_color=000000&icon_color=7F7F7F&layout=compact&theme=white)](https://github.com/Sheep1sik/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&langs_count=8&title_color=000000)](https://github.com/Sheep1sik/github-readme-stats)  
-
----
-
-### 📝 대표 프로젝트
-#### **JOSIMI: 스마트 개인화 앱**
-- **설명**: 개인의 질병 정보를 기반으로 **식품 성분 위험도**를 시각적으로 제공하고, **맞춤형 제품 추천**까지 지원하는 스마트 커머스 앱
-- **기술 스택**: Swift, SwiftUI, Combine, CoreData  
-- **성과**: **2024 제 10회 인천광역시 공공데이터 활용 경진대회**: 최우수상, **2024 인천대학교 창업경진대회**: 단괴대학장상, **2024 제 12회 범정부 공공데이터 활용 창업경진대회 왕중왕전**: 장려상  
 
 ---
 
