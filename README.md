@@ -1,60 +1,55 @@
 <div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ffffff,100:ffffff&height=150&section=header&text=Welcome&fontColor=000000&fontSize=60&animation=twinkling&fontAlignY=45&desc=Sheep1sik%20GitHub%20&descAlignY=70)
 
-<br>
-<br>
-
-### 💡 SNS links 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sheep1sik@gmail.com)
-<a href="https://www.instagram.com/Sheep1sik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://sheep1sik.tistory.com/"><img src="https://img.shields.io/badge/GGoD_Blog-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ffffff,100:ffffff&height=150&section=header&text=Welcome!&fontColor=000000&fontSize=60&animation=twinkling&fontAlignY=45&desc=Sheep1sik's%20GitHub%20Profile&descAlignY=70)
 
 ---
 
-### 📝 Languages 
-
-#### < Used as the main ><br>
-<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-99CC00?style=flat-square&logo=Csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-
-#### < Used at least Once ><br>
-<img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-99CC00?style=flat-square&logo=Csharp&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jss-F7DF1E?style=flat-square&logo=jss&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-#### < Hits ><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheep1sik&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsheep1sik.tistory.com&count_bg=%23C88E3D&title_bg=%23555555&icon=bloglovin.svg&icon_color=%23E7E7E7&title=log&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
-<br>
+### 👋 안녕하세요, 저는 **양원식**입니다!  
+iOS 앱 개발에 열정을 가진 예비 개발자로, 사용자 경험을 최적화하는 것을 목표로 다양한 프로젝트를 진행하고 있습니다.
 
 ---
 
-### ✏️ Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bohg6799)](https://solved.ac/bohg6799/)
+### 🏆 개인 수상 경력
+- **2018 고양시 스마트 시티 메이커톤**: 우수상 [ 고양지식정보산업진흥원장상 (3위) ]  
+  - 아두이노, 라즈베리파이를 활용한 시각장애인을 위한 보도블럭  
+- **2021 창의,융합,통섭형 학생역량강화 캠프**: 동상
+- **2024 제 12회 범정부 공공데이터 활용 창업경진대회 왕중왕전**: 장려상 
 
 ---
 
-### GitHub Stats
+### 🛠 기술 스택  
+#### < 주로 사용하는 기술 >
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&title_color=000000&icon_color=7F7F7F&layout=compact&theme=white)](https://github.com/Sheep1sik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&langs_count=8&title_color=000000)](https://github.com/Sheep1sik/github-readme-stats)
+#### < 경험한 기술 >
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>  
+
+---
+
+### 📈 GitHub 통계  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&title_color=000000&icon_color=7F7F7F&layout=compact&theme=white)](https://github.com/Sheep1sik/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&langs_count=8&title_color=000000)](https://github.com/Sheep1sik/github-readme-stats)  
+
+---
+
+### 📝 대표 프로젝트
+#### **JOSIMI: 스마트 개인화 앱**
+- **설명**: 개인의 질병 정보를 기반으로 **식품 성분 위험도**를 시각적으로 제공하고, **맞춤형 제품 추천**까지 지원하는 스마트 커머스 앱
+- **기술 스택**: Swift, SwiftUI, Combine, CoreData  
+- **성과**: **2024 제 10회 인천광역시 공공데이터 활용 경진대회**: 최우수상, **2024 인천대학교 창업경진대회**: 단괴대학장상, **2024 제 12회 범정부 공공데이터 활용 창업경진대회 왕중왕전**: 장려상  
+
+---
+
+### 📬 연락처
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sheep1sik@gmail.com)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/Sheep1sik/)  
+[![Blog Badge](https://img.shields.io/badge/Tistory-Blog-000000?style=flat-square&logo=Apple&logoColor=white)](https://sheep1sik.tistory.com/)  
+
+</div>
 
