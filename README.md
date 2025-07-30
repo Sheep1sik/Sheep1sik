@@ -27,7 +27,7 @@
 #### **MOUP: 근무/급여 관리 iOS 앱** [MOUP 다운로드](https://apps.apple.com/kr/app/moup/id6747497191)
 - **설명**: 알바생과 사장님이 함께 사용하는 근무 일정 및 급여 정산 앱으로, 실시간 근무지 등록/초대, 개인 및 공유 캘린더, 급여·인건비 자동 계산 기능을 제공.
 - **기술 스택**: Swift, UIKit, RxSwift, Firebase Auth, Firestore, SnapKit, Then, Clean Architecture, MVVM
-**역할 및 경험** <br/>
+- **역할 및 경험** <br/>
 팀 내 부리더로 전체 구조 설계, 기술 스택 선정, 코드 컨벤션 및 PR 리뷰 주도 <br/>
 Google/Apple 로그인, Firebase 기반 실시간 데이터 흐름, Rx Input/Output 패턴 적용 <br/>
 Figma를 기반으로 디자이너와 UI 요소/동선 협업, 사용자 편의 중심 UI 구현에 기여
