@@ -6,6 +6,20 @@
 
 **iOS Developer**
 
+<br/>
+
+*"동작하는 코드에서 끝나지 않는 개발"*
+
+기능 구현에 그치지 않고, 구조와 품질까지 고민하는 iOS 개발자입니다.
+
+<br/>
+
+</div>
+
+<br/>
+
+## Skills
+
 **iOS** · Swift · UIKit · SwiftUI · RxSwift · Combine · CoreData · SnapKit · Alamofire
 <br/>
 **Architecture** · MVVM · Clean Architecture · TCA · Coordinator · Tuist
@@ -15,17 +29,6 @@
 **AI** · Claude Code · Codex
 <br/>
 **Others** · Python · JavaScript · Kotlin · C++ · MySQL · Linux
-
-<br/>
-
-사용자 경험을 최우선으로 생각합니다.
-<br/>
-깔끔한 아키텍처 위에 직관적인 인터페이스를 만듭니다.
-
-<br/>
-
-
-</div>
 
 <br/>
 
