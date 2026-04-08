@@ -6,7 +6,11 @@
 
 **iOS Developer**
 
-Swift · UIKit · SwiftUI · TCA · Tuist
+**iOS** · Swift · UIKit · SwiftUI · RxSwift · Combine
+<br/>
+**Infra** · Firebase · Git · GitHub Actions · Fastlane
+<br/>
+**AI** · Claude Code · Codex
 
 <br/>
 
