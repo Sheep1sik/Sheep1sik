@@ -82,7 +82,6 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-$POSTS
 <!-- BLOG-POST-LIST:END -->
 
 <br/>

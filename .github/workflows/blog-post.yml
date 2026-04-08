@@ -15,49 +15,34 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch RSS and update README
         run: |
-          # Fetch RSS with browser-like headers
-          RSS=$(curl -s -L \
+          curl -s -L \
             -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
             -H "Accept: application/rss+xml,application/xml,text/xml" \
             -H "Accept-Language: ko-KR,ko;q=0.9" \
-            "https://sheep1sik.tistory.com/rss")
+            "https://sheep1sik.tistory.com/rss" -o rss.xml
 
-          if [ -z "$RSS" ]; then
-            echo "Failed to fetch RSS"
-            exit 0
-          fi
+          python3 << 'PYEOF'
+          import re, xml.etree.ElementTree as ET
 
-          # Parse titles and links (top 5)
-          POSTS=$(echo "$RSS" | python3 -c "
-          import sys, xml.etree.ElementTree as ET
-          data = sys.stdin.read()
           try:
-              root = ET.fromstring(data)
+              tree = ET.parse('rss.xml')
+              root = tree.getroot()
               items = root.findall('.//item')[:5]
+              lines = []
               for item in items:
                   title = item.find('title').text
                   link = item.find('link').text
-                  print(f'- [{title}]({link})')
+                  lines.append(f'- [{title}]({link})')
+              posts = '\n'.join(lines)
           except:
-              pass
-          ")
+              posts = ''
 
-          if [ -z "$POSTS" ]; then
-            echo "No posts found or parse error"
-            exit 0
-          fi
-
-          # Update README between markers
-          python3 << 'PYEOF'
-          import re
+          if not posts:
+              print('No posts found')
+              exit(0)
 
           with open('README.md', 'r') as f:
               content = f.read()
-
-          with open('/dev/stdin', 'r') as f:
-              pass
-
-          posts = """$POSTS"""
 
           pattern = r'(<!-- BLOG-POST-LIST:START -->).*?(<!-- BLOG-POST-LIST:END -->)'
           replacement = f'\\1\n{posts}\n\\2'
@@ -65,6 +50,8 @@ jobs:
 
           with open('README.md', 'w') as f:
               f.write(new_content)
+
+          print('README updated with blog posts')
           PYEOF
 
       - name: Commit and push
