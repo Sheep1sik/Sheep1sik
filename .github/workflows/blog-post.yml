@@ -10,9 +10,65 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://sheep1sik.tistory.com/rss"
-          max_post_count: 5
-          template: "$newline- [$title]($url)"
-          user_agent: "Mozilla/5.0 (compatible; GitHubActions)"
+      - name: Fetch RSS and update README
+        run: |
+          # Fetch RSS with browser-like headers
+          RSS=$(curl -s -L \
+            -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            -H "Accept: application/rss+xml,application/xml,text/xml" \
+            -H "Accept-Language: ko-KR,ko;q=0.9" \
+            "https://sheep1sik.tistory.com/rss")
+
+          if [ -z "$RSS" ]; then
+            echo "Failed to fetch RSS"
+            exit 0
+          fi
+
+          # Parse titles and links (top 5)
+          POSTS=$(echo "$RSS" | python3 -c "
+          import sys, xml.etree.ElementTree as ET
+          data = sys.stdin.read()
+          try:
+              root = ET.fromstring(data)
+              items = root.findall('.//item')[:5]
+              for item in items:
+                  title = item.find('title').text
+                  link = item.find('link').text
+                  print(f'- [{title}]({link})')
+          except:
+              pass
+          ")
+
+          if [ -z "$POSTS" ]; then
+            echo "No posts found or parse error"
+            exit 0
+          fi
+
+          # Update README between markers
+          python3 << 'PYEOF'
+          import re
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          with open('/dev/stdin', 'r') as f:
+              pass
+
+          posts = """$POSTS"""
+
+          pattern = r'(<!-- BLOG-POST-LIST:START -->).*?(<!-- BLOG-POST-LIST:END -->)'
+          replacement = f'\\1\n{posts}\n\\2'
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && echo "No changes" && exit 0
+          git add README.md
+          git commit -m "docs: 블로그 포스트 자동 업데이트"
+          git push
