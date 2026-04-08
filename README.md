@@ -84,7 +84,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&theme=default&hide_border=true&bg_color=00000000" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Sheep1sik&theme=default&hide_border=true&background=00000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheep1sik&layout=compact&hide_border=true&bg_color=00000000" width="48%" />
 
 </div>
 
