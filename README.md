@@ -82,6 +82,12 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Algorithm ] Baekjoon_1002 : C++](https://sheep1sik.tistory.com/188)
+- [[C++] 코딩테스트에서 endl 대신 &quot;
+&quot;을 써야 하는 이유](https://sheep1sik.tistory.com/187)
+- [자식 컨트롤러 누락으로 인한 이벤트 미작동](https://sheep1sik.tistory.com/186)
+- [체크박스를 클릭해도 이미지가 바뀌지 않음](https://sheep1sik.tistory.com/185)
+- [[ iOS ] Apple 로그인 클라이언트 구현 (UIKit + Rx + Clean Architecture)](https://sheep1sik.tistory.com/184)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
