@@ -79,19 +79,23 @@
 
 <br/>
 
+## GitHub Stats
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&theme=default&hide_border=true&bg_color=00000000" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Sheep1sik&theme=default&hide_border=true&background=00000000" width="48%" />
+
+</div>
+
 <br/>
+
+## Contact
+
+<div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sheep1sik@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/Sheep1sik/)
 [![Blog Badge](https://img.shields.io/badge/Tistory-Blog-000000?style=flat-square&logo=Apple&logoColor=white)](https://sheep1sik.tistory.com/)
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&theme=default&hide_border=true&bg_color=00000000" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheep1sik&theme=default&hide_border=true&background=00000000" width="48%" />
 
 </div>
