@@ -1,17 +1,23 @@
 <div>
 
 ### 🛠 기술 스택  
-#### < 주로 사용하는 기술 >
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>  
-
-#### < 경험한 기술 >
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
+  #### < 주로 사용하는 기술 >                                                                                                                                           
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>                                                                   
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>                                                                   
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=Apple&logoColor=white"/>                                                                   
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=Swift&logoColor=white"/>                                                                 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>                                                                       
+                                                                                                                                                                        
+  #### < 경험한 기술 >                                                                                                                                                  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>                                                                 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>                                                         
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>                                                                   
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>                                                                   
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>                                                                 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>                                                               
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>                                                                   
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=Anthropic&logoColor=white"/>                                                              
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=OpenAI&logoColor=white"/>  
 
 ---
 
