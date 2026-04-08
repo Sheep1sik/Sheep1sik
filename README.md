@@ -2,7 +2,7 @@
 
 <br/>
 
-# 양원식
+# 양원식 (Wonsik Yang)
 
 **iOS Developer**
 
@@ -84,15 +84,8 @@
 
 <br/>
 
-<a href="mailto:sheep1sik@gmail.com">Email</a> · <a href="https://sheep1sik.tistory.com/">Blog</a> · <a href="https://www.instagram.com/Sheep1sik/">Instagram</a>
-
-<br/>
-<br/>
-
-<sub>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=888888&text_color=666666&hide_title=true&hide_rank=true" width="380" />
-
-</sub>
+[![Gmail](https://img.shields.io/badge/sheep1sik@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:sheep1sik@gmail.com)&nbsp;&nbsp;
+[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://sheep1sik.tistory.com/)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Sheep1sik/)
 
 </div>
