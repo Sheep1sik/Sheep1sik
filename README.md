@@ -84,8 +84,14 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/sheep1sik@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:sheep1sik@gmail.com)&nbsp;&nbsp;
-[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://sheep1sik.tistory.com/)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Sheep1sik/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sheep1sik@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/Sheep1sik/)
+[![Blog Badge](https://img.shields.io/badge/Tistory-Blog-000000?style=flat-square&logo=Apple&logoColor=white)](https://sheep1sik.tistory.com/)
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sheep1sik&show_icons=true&theme=default&hide_border=true&bg_color=00000000" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheep1sik&theme=default&hide_border=true&background=00000000" width="48%" />
 
 </div>
