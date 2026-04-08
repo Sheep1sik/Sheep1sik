@@ -2,7 +2,7 @@
 
 <br/>
 
-# 양원식 (Wonsik Yang)
+# 양원식 - Wonsik Yang
 
 **iOS Developer**
 
