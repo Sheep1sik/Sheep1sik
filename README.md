@@ -6,11 +6,15 @@
 
 **iOS Developer**
 
-**iOS** · Swift · UIKit · SwiftUI · RxSwift · Combine
+**iOS** · Swift · UIKit · SwiftUI · RxSwift · Combine · CoreData · SnapKit · Alamofire
 <br/>
-**Infra** · Firebase · Git · GitHub Actions · Fastlane
+**Architecture** · MVVM · Clean Architecture · TCA · Coordinator · Tuist
+<br/>
+**Infra** · Firebase · Git · GitHub Actions · Socket.IO · Fastlane
 <br/>
 **AI** · Claude Code · Codex
+<br/>
+**Others** · Python · JavaScript · Kotlin · C++ · MySQL · Linux
 
 <br/>
 
