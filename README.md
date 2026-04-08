@@ -38,7 +38,7 @@
 
 ### SpinCell
 
-<sub>2025.10 —</sub> <img src="https://img.shields.io/badge/진행중-007AFF?style=flat-square" height="16" />
+<sub>2025.10 — 진행 중</sub>
 
 음악을 중심으로 사람과 문화를 연결하는 취향 기반 소셜 커뮤니티 플랫폼
 
