@@ -36,7 +36,9 @@
 
 <br/>
 
-### SpinCell <sub>2025.10 — 진행 중</sub>
+### SpinCell
+
+<sub>2025.10 — 진행 중</sub>
 
 음악을 중심으로 사람과 문화를 연결하는 취향 기반 소셜 커뮤니티 플랫폼
 
@@ -44,7 +46,9 @@
 
 <br/>
 
-### MOUP <sub>2025.05 — 2025.12 · [App Store](https://apps.apple.com/kr/app/moup/id6747497191)</sub>
+### MOUP
+
+<sub>2025.05 — 2025.12 · [App Store](https://apps.apple.com/kr/app/moup/id6747497191)</sub>
 
 알바생과 사장님이 함께 사용하는 근무 일정 및 급여 관리 앱
 
@@ -52,7 +56,9 @@
 
 <br/>
 
-### JOSIMI <sub>2024</sub>
+### JOSIMI
+
+<sub>2024</sub>
 
 개인 질병 정보 기반 식품 성분 위험도 시각화 및 맞춤형 제품 추천 스마트 커머스 앱
 
