@@ -82,12 +82,12 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Claude ] 나만의 오케스트레이터 설계, 왜 직접 만들었고, 6개 팀은 어떻게 탄생했는가](https://sheep1sik.tistory.com/190)
 - [[ Claude ] 하네스 엔지니어링이란 무엇인가?](https://sheep1sik.tistory.com/189)
 - [[ Algorithm ] Baekjoon_1002 : C++](https://sheep1sik.tistory.com/188)
 - [[C++] 코딩테스트에서 endl 대신 &quot;
 &quot;을 써야 하는 이유](https://sheep1sik.tistory.com/187)
 - [자식 컨트롤러 누락으로 인한 이벤트 미작동](https://sheep1sik.tistory.com/186)
-- [체크박스를 클릭해도 이미지가 바뀌지 않음](https://sheep1sik.tistory.com/185)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
