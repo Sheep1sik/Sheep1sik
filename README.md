@@ -28,7 +28,7 @@
 <br/>
 **AI** · Claude Code · Codex
 <br/>
-**Others** · Python · JavaScript · Kotlin · C++ · MySQL · Linux
+**Others** · Python · Java · JavaScript · Kotlin · C++ · MySQL · Linux
 
 <br/>
 
