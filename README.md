@@ -20,12 +20,10 @@
 
 ## Skills
 
-**Core** <br/> 
 **iOS** · Swift · UIKit · SwiftUI · Combine · TCA · RxSwift <br/>
 **Networking** · URLSession · Socket.IO · Alamofire <br/>
 **Architecture** · TCA · Clean Architecture · Tuist <br/>
 
-**Experienced** <br/>
 **Persistence** · CoreData · SwiftData · GRDB  <br/>
 **Auth** · Firebase Auth · Social Login (Apple · Google · Kakao)  <br/> 
 **Concurrency** · async/await · Actor  <br/>
