@@ -21,18 +21,23 @@
 ## Skills
 
 **Core**
-iOS · Swift · UIKit · SwiftUI · Combine · TCA  
-Networking · URLSession · Socket.IO  
-Architecture · Clean Architecture · Tuist  
+**iOS** · Swift · UIKit · SwiftUI · Combine · TCA · RxSwift
+**Networking** · URLSession · Socket.IO · Alamofire
+**Architecture** · TCA · Clean Architecture · Tuist  
 
 **Experienced**
-Persistence · CoreData · SwiftData · GRDB  
-Auth · Firebase Auth · Social Login (Apple · Google · Kakao)  
-Concurrency · async/await · Actor  
-Infra · Firebase · GitHub Actions · Fastlane  
+**Persistence** · CoreData · SwiftData · GRDB  
+**Auth** · Firebase Auth · Social Login (Apple · Google · Kakao)  
+**Concurrency** · async/await · Actor  
+**Infra** · Firebase · Git · GitHub Actions · Fastlane · SwiftLint · SPM  
+**Media** · AVFoundation · MusicKit  
 
 **Others**
-Python · Java · JavaScript · Kotlin · C++ · MySQL · Linux
+Python · Java · JavaScript · Kotlin · C++ · MySQL · Linux  
+
+**Collaboration**
+Notion · Slack · Figma · GitHub
+
 <br/>
 
 ## Projects
