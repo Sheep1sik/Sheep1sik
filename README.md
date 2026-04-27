@@ -4,7 +4,7 @@
 
 # 양원식 - Wonsik Yang
 
-**iOS Developer**
+**Mobile App Developer**
 
 <br/>
 
@@ -20,27 +20,33 @@
 
 ## Skills
 
-**iOS** · Swift · UIKit · SwiftUI · Combine · TCA · RxSwift <br/>
-**Networking** · URLSession · Socket.IO · Alamofire <br/>
-**Architecture** · TCA · Clean Architecture · Tuist <br/>
+**Primary — iOS** <br/>
+Swift · UIKit · SwiftUI · Combine · TCA · RxSwift <br/>
+URLSession · Socket.IO · Alamofire <br/>
+TCA · Clean Architecture · MVVM · Coordinator · Tuist <br/>
+CoreData · SwiftData · GRDB <br/>
+async/await · Actor <br/>
+AVFoundation · MusicKit · SpriteKit <br/>
 
-**Persistence** · CoreData · SwiftData · GRDB  <br/>
-**Auth** · Firebase Auth · Social Login (Apple · Google · Kakao)  <br/> 
-**Concurrency** · async/await · Actor  <br/>
-**Infra** · Firebase · Git · GitHub Actions · Fastlane · SwiftLint · SPM  <br/>
-**Media** · AVFoundation · MusicKit  <br/>
+**Expanding** <br/>
+Flutter · Dart · Kotlin <br/>
+
+**Auth** · Firebase Auth · Social Login (Apple · Google · Kakao) <br/>
+**Infra** · Firebase · Git · GitHub Actions · Fastlane · SwiftLint · SPM <br/>
 
 **Others** <br/>
-Python · Java · JavaScript · Kotlin · C++ · MySQL · Linux  <br/>
+Python · Java · JavaScript · C++ · MySQL · Linux <br/>
 
 **Collaboration** <br/>
-Notion · Slack · Figma · GitHub 
+Notion · Slack · Figma · GitHub
 
 <br/>
 
 ## Projects
 
 <br/>
+
+**Team Projects**
 
 ### SpinCell
 
@@ -62,6 +68,18 @@ Notion · Slack · Figma · GitHub
 
 <br/>
 
+**Personal Projects**
+
+### Microcosm — 소우주
+
+<sub>2026.03 — 진행 중 · [App Store](https://apps.apple.com/kr/app/%EC%86%8C%EC%9A%B0%EC%A3%BC/id6760713435)</sub>
+
+하루의 순간을 별로, 이루고 싶은 목표를 별자리로 — 당신만의 밤하늘을 채워가는 기록 앱
+
+`SwiftUI` `TCA` `SpriteKit` `Tuist` `Firebase`
+
+<br/>
+
 ### JOSIMI
 
 <sub>2024</sub>
@@ -71,7 +89,6 @@ Notion · Slack · Figma · GitHub
 `SwiftUI` `Combine` `CoreData` `AVFoundation`
 
 <br/>
-
 
 <br/>
 
