@@ -70,7 +70,7 @@ Notion · Slack · Figma · GitHub
 
 **Personal Projects**
 
-### Microcosm — 소우주
+### 소우주
 
 <sub>2026.03 — 진행 중 · [App Store](https://apps.apple.com/kr/app/%EC%86%8C%EC%9A%B0%EC%A3%BC/id6760713435)</sub>
 
