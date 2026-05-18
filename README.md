@@ -105,11 +105,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Flutter ] Flutter는 왜 플랫폼마다 같은 화면을 그릴 수 있을까?](https://sheep1sik.tistory.com/194)
+- [[ React Native ] React Native를 시작하기 전에 헷갈렸던 것들](https://sheep1sik.tistory.com/193)
 - [[ Flutter ] 프로젝트 구조 해부](https://sheep1sik.tistory.com/192)
 - [[ Flutter ]Swift 개발자를 위한 Dart 핵심 문법 비교](https://sheep1sik.tistory.com/191)
 - [[ Claude ] 나만의 오케스트레이터 설계, 왜 직접 만들었고, 6개 팀은 어떻게 탄생했는가](https://sheep1sik.tistory.com/190)
-- [[ Claude ] 하네스 엔지니어링이란 무엇인가?](https://sheep1sik.tistory.com/189)
-- [[ Algorithm ] Baekjoon_1002 : C++](https://sheep1sik.tistory.com/188)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
