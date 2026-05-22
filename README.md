@@ -105,11 +105,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Flutter ] StatefulWidget은 왜 위젯과 State 두 개로 나뉘어 있을까 ?](https://sheep1sik.tistory.com/198)
 - [[ React Native ] View와 Text는 결국 무엇으로 그려질까 ?](https://sheep1sik.tistory.com/197)
 - [[ Swift ] Swift는 왜 변수 하나에도 타입을 그렇게 따질까?](https://sheep1sik.tistory.com/196)
 - [[ Swift ] Swift는 왜 안전하고 빠르고 읽기 쉬운 언어를 목표로 할까?](https://sheep1sik.tistory.com/195)
 - [[ Flutter ] Flutter는 왜 플랫폼마다 같은 화면을 그릴 수 있을까?](https://sheep1sik.tistory.com/194)
-- [[ React Native ] React Native를 시작하기 전에 헷갈렸던 것들](https://sheep1sik.tistory.com/193)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
