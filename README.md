@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Swift ] Array는 순서, Set은 유일성, Dictionary는 키](https://sheep1sik.tistory.com/203)
 - [[ Swift ] Swift String의 인덱스가 정수가 아닌 이유](https://sheep1sik.tistory.com/202)
 - [[ Algorithm ] 빅오 표기법과 시간 &middot; 공간 복잡도](https://sheep1sik.tistory.com/201)
 - [[ React Native ] React Native 개발 환경, Expo와 CLI 중 무엇으로 시작해야 할까?](https://sheep1sik.tistory.com/200)
 - [[ Swift ] Swift의 연산자는 왜 단순한 기호가 아닐까?](https://sheep1sik.tistory.com/199)
-- [[ Flutter ] StatefulWidget은 왜 위젯과 State 두 개로 나뉘어 있을까 ?](https://sheep1sik.tistory.com/198)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
