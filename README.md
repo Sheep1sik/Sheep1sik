@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Swift ] 오류 처리(Error Handling)](https://sheep1sik.tistory.com/208)
+- [[ Tuist ] git worktree로 두 작업 동시에](https://sheep1sik.tistory.com/207)
 - [[ Swift ] 메모리 안전성(Memory Safety)](https://sheep1sik.tistory.com/206)
 - [[ Swift ] 옵셔널(Optional)](https://sheep1sik.tistory.com/205)
 - [[ Swift ] 튜플(Tuple)](https://sheep1sik.tistory.com/204)
-- [[ Swift ] Array는 순서, Set은 유일성, Dictionary는 키](https://sheep1sik.tistory.com/203)
-- [[ Swift ] Swift String의 인덱스가 정수가 아닌 이유](https://sheep1sik.tistory.com/202)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
