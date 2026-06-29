@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ Swift ] 기본 연산자](https://sheep1sik.tistory.com/209)
 - [[ Swift ] 오류 처리(Error Handling)](https://sheep1sik.tistory.com/208)
 - [[ Tuist ] git worktree로 두 작업 동시에](https://sheep1sik.tistory.com/207)
 - [[ Swift ] 메모리 안전성(Memory Safety)](https://sheep1sik.tistory.com/206)
 - [[ Swift ] 옵셔널(Optional)](https://sheep1sik.tistory.com/205)
-- [[ Swift ] 튜플(Tuple)](https://sheep1sik.tistory.com/204)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
