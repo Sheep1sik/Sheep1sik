@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ SwiftUI ] 선언적 UI란 무엇인가](https://sheep1sik.tistory.com/212)
+- [[ UIKit ] UIApplication과 AppDelegate](https://sheep1sik.tistory.com/211)
+- [[ Swift ] 상수&middot;변수와 타입 안전성](https://sheep1sik.tistory.com/210)
 - [[ Swift ] 기본 연산자](https://sheep1sik.tistory.com/209)
 - [[ Swift ] 오류 처리(Error Handling)](https://sheep1sik.tistory.com/208)
-- [[ Tuist ] git worktree로 두 작업 동시에](https://sheep1sik.tistory.com/207)
-- [[ Swift ] 메모리 안전성(Memory Safety)](https://sheep1sik.tistory.com/206)
-- [[ Swift ] 옵셔널(Optional)](https://sheep1sik.tistory.com/205)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
