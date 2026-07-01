@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ SwiftUI ] some View와 뷰 합성](https://sheep1sik.tistory.com/215)
+- [[ UIKit ] UISceneDelegate와 UIWindow](https://sheep1sik.tistory.com/214)
+- [[ Swift ] 문자열과 문자(Strings and Characters)](https://sheep1sik.tistory.com/213)
 - [[ SwiftUI ] 선언적 UI란 무엇인가](https://sheep1sik.tistory.com/212)
 - [[ UIKit ] UIApplication과 AppDelegate](https://sheep1sik.tistory.com/211)
-- [[ Swift ] 상수&middot;변수와 타입 안전성](https://sheep1sik.tistory.com/210)
-- [[ Swift ] 기본 연산자](https://sheep1sik.tistory.com/209)
-- [[ Swift ] 오류 처리(Error Handling)](https://sheep1sik.tistory.com/208)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
