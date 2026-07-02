@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ SwiftUI ] HStack&middot;VStack&middot;ZStack](https://sheep1sik.tistory.com/218)
+- [[ UIKit ] UIView 뷰 계층과 frame&middot;bounds](https://sheep1sik.tistory.com/217)
+- [[ Swift ] 컬렉션 타입(Collection Types)](https://sheep1sik.tistory.com/216)
 - [[ SwiftUI ] some View와 뷰 합성](https://sheep1sik.tistory.com/215)
 - [[ UIKit ] UISceneDelegate와 UIWindow](https://sheep1sik.tistory.com/214)
-- [[ Swift ] 문자열과 문자(Strings and Characters)](https://sheep1sik.tistory.com/213)
-- [[ SwiftUI ] 선언적 UI란 무엇인가](https://sheep1sik.tistory.com/212)
-- [[ UIKit ] UIApplication과 AppDelegate](https://sheep1sik.tistory.com/211)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
