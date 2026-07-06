@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ SwiftUI ] Frame&middot;Alignment](https://sheep1sik.tistory.com/221)
 - [[ UIKit ] 원점&middot;CGPoint&middot;CGRect와 좌표 변환](https://sheep1sik.tistory.com/220)
 - [[ Swift ] 반복문&middot;조건문&middot;guard](https://sheep1sik.tistory.com/219)
 - [[ SwiftUI ] HStack&middot;VStack&middot;ZStack](https://sheep1sik.tistory.com/218)
 - [[ UIKit ] UIView 뷰 계층과 frame&middot;bounds](https://sheep1sik.tistory.com/217)
-- [[ Swift ] 컬렉션 타입(Collection Types)](https://sheep1sik.tistory.com/216)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
