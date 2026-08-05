@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ SwiftUI ] Text &middot; Image](https://sheep1sik.tistory.com/227)
+- [[ UIKit ] 컨테이너 ViewController](https://sheep1sik.tistory.com/226)
+- [[ Swift ] 클로저(Closures)](https://sheep1sik.tistory.com/225)
 - [[ UIKit ] UIViewController 생명주기](https://sheep1sik.tistory.com/224)
 - [[ SwiftUI ] Padding&middot;Spacer](https://sheep1sik.tistory.com/223)
-- [[ Swift ] 함수(Functions)](https://sheep1sik.tistory.com/222)
-- [[ SwiftUI ] Frame&middot;Alignment](https://sheep1sik.tistory.com/221)
-- [[ UIKit ] 원점&middot;CGPoint&middot;CGRect와 좌표 변환](https://sheep1sik.tistory.com/220)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
