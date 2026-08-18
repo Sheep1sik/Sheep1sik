@@ -106,11 +106,11 @@ Notion · Slack · Figma · GitHub
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[ SwiftUI ] Button, Toggle, TextField로 배우는 SwiftUI 컨트롤](https://sheep1sik.tistory.com/230)
+- [[ UIKit ] Auto Layout](https://sheep1sik.tistory.com/229)
+- [[ Swift ] 열거형(Enum)](https://sheep1sik.tistory.com/228)
 - [[ SwiftUI ] Text &middot; Image](https://sheep1sik.tistory.com/227)
 - [[ UIKit ] 컨테이너 ViewController](https://sheep1sik.tistory.com/226)
-- [[ Swift ] 클로저(Closures)](https://sheep1sik.tistory.com/225)
-- [[ UIKit ] UIViewController 생명주기](https://sheep1sik.tistory.com/224)
-- [[ SwiftUI ] Padding&middot;Spacer](https://sheep1sik.tistory.com/223)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
