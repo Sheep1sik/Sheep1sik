@@ -4,14 +4,12 @@
 
 # 양원식 - Wonsik Yang
 
-**Mobile App Developer**
+**iOS Developer**
 
-사용자 경험을 고민하는 앱 개발자입니다.
+코드 너머의 이유를 고민하는 iOS 개발자입니다.
 
-프로젝트를 통해 배우고, 배운 내용을 실제 앱에 적용하며 성장하고 있습니다.
-
-기능을 구현하는 데서 멈추지 않고, 사용자가 어떻게 받아들일지,  
-어떻게 하면 더 편하게 사용할 수 있을지를 고민하며 개선합니다.
+돌아가는 코드보다 프로젝트의 규모와 단계에 맞는 코드가 더 잘 짜인 코드라고 생각합니다.  
+AI가 제안한 코드도 여러 선택지 중 하나로 두고, 왜 이 방식이어야 하는지를 먼저 따져 봅니다.
 
 <br/>
 
@@ -21,75 +19,66 @@
 
 ## Skills
 
-**Primary — iOS** <br/>
-Swift · UIKit · SwiftUI · Combine · TCA · RxSwift <br/>
-URLSession · Socket.IO · Alamofire <br/>
-TCA · Clean Architecture · MVVM · Coordinator · Tuist <br/>
-CoreData · SwiftData · GRDB <br/>
-async/await · Actor <br/>
-AVFoundation · MusicKit · SpriteKit <br/>
-
-**Expanding** <br/>
-Flutter · Dart · Kotlin <br/>
-
-**Auth** · Firebase Auth · Social Login (Apple · Google · Kakao) <br/>
-**Infra** · Firebase · Git · GitHub Actions · Fastlane · SwiftLint · SPM <br/>
-
-**Others** <br/>
-Python · Java · JavaScript · C++ · MySQL · Linux <br/>
-
-**Collaboration** <br/>
-Notion · Slack · Figma · GitHub
+| 분류 | 기술 |
+|---|---|
+| **iOS** | Swift · SwiftUI · UIKit(SnapKit) · Swift Concurrency · RxSwift · SpriteKit · AVFoundation |
+| **Architecture** | TCA · Tuist 모듈 구조 · MVVM-C · Clean Architecture |
+| **Test · Build · CI/CD** | Swift Testing · XCTest · Tuist · SPM · fastlane · GitHub Actions |
+| **Network · Data** | URLSession · Socket.IO · Alamofire · GRDB · SQLite · CloudKit |
+| **Backend · Cross-platform** | Firebase · Supabase · React Native (Expo) |
+| **AI** | Claude Code · Codex · OpenAI API |
+| **Collaboration** | Notion · Slack · Figma · GitHub |
 
 <br/>
 
 ## Projects
 
-<br/>
+| 프로젝트 | 구분 | 소개 | 기간 · 상태 |
+|---|---|---|---|
+| **[한 칸](https://apps.apple.com/kr/app/%ED%95%9C-%EC%B9%B8-%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%98%EB%84%88/id6814798787)** | 개인 | Apple 캘린더 일정과 할 일을 한 달력과 위젯으로 모아 보는 캘린더 앱 | 2026.09 — 운영 중 |
+| **[Spincell](https://apps.apple.com/kr/app/spincell/id6752841680)** | 팀 | 음악으로 연결되는 취향 기반 커뮤니티 | 2025.10 — 운영 중 |
+| **Todog** | 팀 · iOS 리드 | 반려견 식사·투약·케어 일정을 기록하는 건강 케어 앱 | 2026.03 — 출시 준비 중 |
+| **DeALL** | 프리랜서 | AI 인테리어 견적 플랫폼 (1인 풀스택) | 2026.05 — 2026.06 |
+| **[소우주](https://apps.apple.com/kr/app/%EC%86%8C%EC%9A%B0%EC%A3%BC/id6760713435)** | 개인 | 하루의 기록을 감정 분석해 별로 만들어 주는 기록 앱 | 2026.03 — 2026.04 |
+| **[MOUP](https://apps.apple.com/kr/app/moup/id6747497191)** | 팀 · 부리더 | 알바생과 사장님이 함께 쓰는 근무관리 플랫폼 | 2025.05 — 2025.12 |
+| **JOSIMI** | 팀 · 경진대회 | 질병 정보 기반 식품 성분 위험도 시각화 앱 | 2024 |
 
-**Team Projects**
+<sub>이름에 링크가 있는 프로젝트는 App Store에 출시된 앱입니다.</sub>
 
-### SpinCell
-
-<sub>2025.10 — 진행 중</sub>
-
-음악을 중심으로 사람과 문화를 연결하는 취향 기반 소셜 커뮤니티 플랫폼
-
-`SwiftUI` `TCA` `Tuist` `Socket.IO` `Firebase` `GitHub Actions`
-
-<br/>
-
-### MOUP
-
-<sub>2025.05 — 2025.12 · [App Store](https://apps.apple.com/kr/app/moup/id6747497191)</sub>
-
-알바생과 사장님이 함께 사용하는 근무 일정 및 급여 관리 앱
-
-`UIKit` `RxSwift` `Firebase` `Clean Architecture` `MVVM` `Coordinator`
+<details>
+<summary><b>프로젝트별 맡은 일과 기술</b></summary>
 
 <br/>
 
-**Personal Projects**
+**한 칸** · iPhone·iPad <br/>
+1인으로 기획·디자인·개발·출시. 규모에 맞춰 MVVM으로 시작해 프로토콜로 의존성을 주입하고, 앱과 위젯 5종이 한 SQLite 저장소를 함께 씁니다. <br/>
+`SwiftUI` `UIKit` `WidgetKit` `EventKit` `SQLite` `CloudKit` `Swift Testing`
 
-### 소우주
+**Spincell** <br/>
+DM과 그룹 채팅을 1초 폴링에서 Socket.IO로 옮기고, 재연결·누락 메시지 복구와 스레드 크래시 해결을 맡았습니다. <br/>
+`SwiftUI` `TCA` `Tuist` `Socket.IO` `GRDB` `Firebase` `fastlane`
 
-<sub>2026.03 — 진행 중 · [App Store](https://apps.apple.com/kr/app/%EC%86%8C%EC%9A%B0%EC%A3%BC/id6760713435)</sub>
+**Todog** <br/>
+iOS 리드로 Tuist 5계층 모듈 구조를 설계하고, actor 기반 토큰 갱신과 StackState 네비게이션을 만들었습니다. <br/>
+`SwiftUI` `TCA` `Tuist` `Swift Concurrency` `URLSession` `fastlane`
 
-하루의 순간을 별로, 이루고 싶은 목표를 별자리로 — 당신만의 밤하늘을 채워가는 기록 앱
+**DeALL** <br/>
+React Native 앱과 Supabase 백엔드를 혼자 만들고, 인앱결제 서버 검증과 견적 총액을 코드로 확정하는 엔진을 구현했습니다. <br/>
+`React Native` `TypeScript` `Supabase` `expo-iap` `OpenAI API` `fastlane`
 
-`SwiftUI` `TCA` `SpriteKit` `Tuist` `Firebase`
+**소우주** <br/>
+은하를 셰이더 하나로 GPU에서 그리고, 테스트와 PR 검사로 리팩토링 중 회귀를 막았습니다. <br/>
+`SwiftUI` `TCA` `Tuist` `SpriteKit` `SKShader` `OpenAI API`
 
-<br/>
+**MOUP** <br/>
+팀 공통 데이터 계층을 먼저 만들고 급여·근무 핵심 로직을 구현했습니다. <br/>
+`UIKit` `RxSwift` `Firebase` `Clean Architecture` `MVVM-C` `SnapKit`
 
-### JOSIMI
-
-<sub>2024</sub>
-
-개인 질병 정보 기반 식품 성분 위험도 시각화 및 맞춤형 제품 추천 스마트 커머스 앱
-
+**JOSIMI** <br/>
+SwiftUI MVP와 AVFoundation 바코드 인식으로 식품 성분을 조회했습니다. <br/>
 `SwiftUI` `Combine` `CoreData` `AVFoundation`
 
-<br/>
+</details>
 
 <br/>
 
